@@ -1,1 +1,1 @@
-Tableau_dashboard_project
+Customer Sales Analysis Dashboard
